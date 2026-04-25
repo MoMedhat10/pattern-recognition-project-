@@ -315,14 +315,7 @@ After running the notebook, the following files are created:
 - **GPU acceleration**: Highly recommended for faster training
 - **Reproducibility**: Use `random.seed()` and `torch.manual_seed()` for consistent results
 
----
 
-## 👨‍💼 Author
-
-**Project**: Pattern Recognition Course - Level 4, Semester 2  
-**Topic**: Arabic-to-English Neural Machine Translation using Transformers
-
----
 
 ## 📄 License
 
@@ -330,26 +323,3 @@ This project uses the public Arabic-English dataset from GitHub and demonstrates
 
 ---
 
-## 🎓 Learning Outcomes
-
-After completing this project, you will understand:
-- ✅ How to load and explore multilingual datasets
-- ✅ How to preprocess and tokenize text data
-- ✅ The Transformer architecture and attention mechanisms
-- ✅ How to build neural machine translation systems
-- ✅ How to train and evaluate deep learning models
-- ✅ Pattern recognition in sequence data
-
----
-
-## 🤝 Support & Questions
-
-For questions about:
-- **NLP concepts**: Refer to the "Learning Resources" section
-- **PyTorch issues**: Check official PyTorch documentation
-- **Project specifics**: Review comments in the notebook code
-
----
-
-**Last Updated**: April 2026  
-**Project Status**: ✅ Complete and documented
